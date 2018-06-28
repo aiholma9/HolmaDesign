@@ -13,6 +13,7 @@ public class MainActivity extends AppCompatActivity {
     Button btnSignIn, btnSignUp;
     TextView txtSlogan;
 
+/* On create method */
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
