@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "591197779554",
+    "firebase_url": "https://holma-design.firebaseio.com",
+    "project_id": "holma-design",
+    "storage_bucket": "holma-design.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591197779554:android:6292401900162cb6",
+        "android_client_info": {
+          "package_name": "com.holmadesigns.holmadesign"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591197779554-okuksudjabsaj6c7kklti0ceq3jfctd2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.holmadesigns.holmadesign",
+            "certificate_hash": "058ab99d09b3174e066439ee3ec14e1015ca8b34"
+          }
+        },
+        {
+          "client_id": "591197779554-epm5fp2l3gh5np52vv5m8hv05sjukt66.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqJ_ka298v1nFS9hVSBRw6tiOw_gMbkYQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "591197779554-epm5fp2l3gh5np52vv5m8hv05sjukt66.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
